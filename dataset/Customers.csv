@@ -1,0 +1,201 @@
+Customer_ID,Customer_Name,Age,Gender,Segment,City,State,Region,Join_Date
+CUST-0001,Suresh Nair,36,Male,New,Ahmedabad,Gujarat,West,2023-01-25
+CUST-0002,Ritu Kapoor,24,Male,New,Bangalore,Karnataka,South,2021-04-06
+CUST-0003,Nisha Patil,57,Male,Premium,Indore,Madhya Pradesh,West,2023-01-04
+CUST-0004,Mona Patil,22,Male,Regular,Surat,Gujarat,West,2022-12-16
+CUST-0005,Sachin Mishra,35,Female,Regular,Ahmedabad,Gujarat,West,2021-04-15
+CUST-0006,Kavitha Malhotra,44,Female,Premium,Chennai,Tamil Nadu,South,2023-04-07
+CUST-0007,Sunita Yadav,46,Male,Regular,Coimbatore,Tamil Nadu,South,2022-07-20
+CUST-0008,Usha Das,26,Male,New,Bhubaneswar,Odisha,East,2022-11-09
+CUST-0009,Geeta Tiwari,28,Female,New,Bangalore,Karnataka,South,2021-10-12
+CUST-0010,Praveen Srivastava,44,Male,Premium,Hyderabad,Telangana,South,2022-11-18
+CUST-0011,Gaurav Reddy,32,Female,New,Hyderabad,Telangana,South,2022-01-24
+CUST-0012,Gaurav Khanna,25,Male,Premium,Jaipur,Rajasthan,North,2023-04-22
+CUST-0013,Vikram Nambiar,26,Male,Regular,Kochi,Kerala,South,2023-07-25
+CUST-0014,Deepak Agarwal,51,Male,New,Patna,Bihar,East,2021-09-29
+CUST-0015,Pooja Devi,49,Female,Regular,Coimbatore,Tamil Nadu,South,2022-01-06
+CUST-0016,Venkat Kumar,27,Male,Regular,Indore,Madhya Pradesh,West,2023-06-01
+CUST-0017,Suresh Joshi,26,Female,New,Hyderabad,Telangana,South,2022-01-26
+CUST-0018,Sonal Patel,29,Female,Premium,Ahmedabad,Gujarat,West,2023-02-27
+CUST-0019,Bhavna Pillai,32,Female,New,Lucknow,Uttar Pradesh,North,2021-01-04
+CUST-0020,Rekha Kulkarni,41,Male,Regular,Hyderabad,Telangana,South,2021-06-06
+CUST-0021,Jaya Singh,42,Female,Premium,Coimbatore,Tamil Nadu,South,2021-01-20
+CUST-0022,Suresh Srivastava,25,Male,New,Lucknow,Uttar Pradesh,North,2023-06-19
+CUST-0023,Amit Gupta,56,Male,Regular,Patna,Bihar,East,2021-05-12
+CUST-0024,Ajay Khanna,55,Female,Regular,Hyderabad,Telangana,South,2023-09-15
+CUST-0025,Nisha Kapoor,47,Female,Regular,Pune,Maharashtra,West,2022-03-25
+CUST-0026,Shilpa Pillai,26,Female,New,Jaipur,Rajasthan,North,2021-01-22
+CUST-0027,Geeta Chauhan,26,Male,Premium,Jaipur,Rajasthan,North,2021-08-23
+CUST-0028,Sanjay Mehta,54,Male,Regular,Chandigarh,Punjab,North,2021-10-13
+CUST-0029,Hemant Agarwal,58,Female,Regular,Coimbatore,Tamil Nadu,South,2021-09-06
+CUST-0030,Ajay Choudhary,28,Female,Regular,Pune,Maharashtra,West,2021-12-29
+CUST-0031,Sachin Choudhary,28,Male,Premium,Surat,Gujarat,West,2022-02-17
+CUST-0032,Bhavna Iyer,34,Female,New,Jaipur,Rajasthan,North,2021-05-24
+CUST-0033,Sachin Menon,37,Male,Regular,Ahmedabad,Gujarat,West,2022-03-30
+CUST-0034,Nikhil Bose,27,Male,Premium,Coimbatore,Tamil Nadu,South,2021-06-20
+CUST-0035,Rajan Ghosh,47,Male,New,Patna,Bihar,East,2021-06-18
+CUST-0036,Sunil Sharma,51,Female,Regular,Kochi,Kerala,South,2022-03-10
+CUST-0037,Hemant Joshi,35,Male,Regular,Pune,Maharashtra,West,2022-08-17
+CUST-0038,Deepa Nambiar,52,Male,Premium,Mumbai,Maharashtra,West,2021-02-28
+CUST-0039,Amit Menon,37,Female,Regular,Bangalore,Karnataka,South,2021-05-03
+CUST-0040,Pallavi Chauhan,48,Female,Regular,Mumbai,Maharashtra,West,2023-08-16
+CUST-0041,Rekha Agarwal,38,Female,New,Chandigarh,Punjab,North,2021-05-15
+CUST-0042,Vijay Yadav,22,Female,Regular,Chandigarh,Punjab,North,2022-09-29
+CUST-0043,Nikhil Reddy,54,Female,New,Coimbatore,Tamil Nadu,South,2021-05-16
+CUST-0044,Tarun Reddy,40,Male,Premium,Jaipur,Rajasthan,North,2022-03-25
+CUST-0045,Vijay Das,57,Female,Premium,Indore,Madhya Pradesh,West,2023-08-13
+CUST-0046,Ritu Kumar,28,Male,Regular,Ahmedabad,Gujarat,West,2021-10-06
+CUST-0047,Ramesh Banerjee,35,Female,Premium,Pune,Maharashtra,West,2022-06-02
+CUST-0048,Hemant Verma,49,Female,Regular,Mumbai,Maharashtra,West,2021-02-15
+CUST-0049,Arjun Mishra,32,Female,Regular,Kolkata,West Bengal,East,2022-07-19
+CUST-0050,Sachin Khanna,26,Male,Regular,Delhi,Delhi,North,2022-07-13
+CUST-0051,Vikram Srivastava,49,Male,Regular,Coimbatore,Tamil Nadu,South,2021-02-12
+CUST-0052,Sarita Srivastava,35,Male,Premium,Mumbai,Maharashtra,West,2022-11-14
+CUST-0053,Ritu Dubey,31,Male,New,Coimbatore,Tamil Nadu,South,2023-06-05
+CUST-0054,Arun Menon,33,Female,Premium,Nagpur,Maharashtra,West,2023-03-13
+CUST-0055,Rajan Devi,28,Female,Regular,Ahmedabad,Gujarat,West,2023-06-13
+CUST-0056,Vikram Vardhan,51,Female,New,Jaipur,Rajasthan,North,2021-11-09
+CUST-0057,Geeta Patil,47,Female,New,Delhi,Delhi,North,2021-10-13
+CUST-0058,Sanjay Shah,56,Female,New,Bhubaneswar,Odisha,East,2023-08-20
+CUST-0059,Ananya Pillai,38,Male,Regular,Ahmedabad,Gujarat,West,2021-04-22
+CUST-0060,Neha Dubey,54,Male,New,Chandigarh,Punjab,North,2022-01-30
+CUST-0061,Rohit Verma,22,Male,New,Mumbai,Maharashtra,West,2022-01-08
+CUST-0062,Neha Reddy,29,Female,Premium,Chandigarh,Punjab,North,2022-06-04
+CUST-0063,Sarita Choudhary,40,Male,New,Chandigarh,Punjab,North,2021-07-16
+CUST-0064,Mona Malhotra,47,Male,Regular,Hyderabad,Telangana,South,2021-11-08
+CUST-0065,Ramesh Agarwal,51,Female,Premium,Nagpur,Maharashtra,West,2022-03-29
+CUST-0066,Nisha Kulkarni,27,Female,Regular,Patna,Bihar,East,2022-06-12
+CUST-0067,Sushil Gupta,36,Male,Regular,Jaipur,Rajasthan,North,2021-05-31
+CUST-0068,Ananya Mehta,26,Female,Regular,Jaipur,Rajasthan,North,2022-03-01
+CUST-0069,Rohit Malhotra,37,Male,New,Patna,Bihar,East,2022-11-03
+CUST-0070,Arjun Iyer,33,Female,New,Nagpur,Maharashtra,West,2021-02-21
+CUST-0071,Pallavi Pillai,51,Female,Regular,Surat,Gujarat,West,2023-08-31
+CUST-0072,Vishal Das,57,Female,New,Indore,Madhya Pradesh,West,2023-07-08
+CUST-0073,Arun Vardhan,37,Female,Regular,Surat,Gujarat,West,2023-02-24
+CUST-0074,Hemant Devi,26,Female,Regular,Ahmedabad,Gujarat,West,2021-08-29
+CUST-0075,Gaurav Mishra,30,Male,Regular,Chandigarh,Punjab,North,2021-08-25
+CUST-0076,Radha Joshi,48,Female,Regular,Pune,Maharashtra,West,2021-12-05
+CUST-0077,Sonal Choudhary,48,Female,New,Mumbai,Maharashtra,West,2023-07-16
+CUST-0078,Rahul Saxena,22,Female,Regular,Kochi,Kerala,South,2021-11-02
+CUST-0079,Radha Choudhary,53,Male,New,Coimbatore,Tamil Nadu,South,2021-10-07
+CUST-0080,Neha Ghosh,43,Female,New,Delhi,Delhi,North,2023-01-12
+CUST-0081,Sneha Yadav,47,Male,Premium,Kolkata,West Bengal,East,2021-03-27
+CUST-0082,Sachin Kumar,25,Female,Regular,Surat,Gujarat,West,2022-01-24
+CUST-0083,Aarti Agarwal,43,Female,Premium,Surat,Gujarat,West,2021-10-12
+CUST-0084,Mona Verma,23,Male,Regular,Bangalore,Karnataka,South,2023-09-02
+CUST-0085,Tarun Patil,23,Male,Premium,Bangalore,Karnataka,South,2021-07-24
+CUST-0086,Rahul Das,30,Female,New,Kolkata,West Bengal,East,2022-11-17
+CUST-0087,Suresh Saxena,38,Female,Regular,Pune,Maharashtra,West,2021-06-21
+CUST-0088,Suresh Singh,23,Female,Regular,Lucknow,Uttar Pradesh,North,2022-08-13
+CUST-0089,Sunil Pandey,37,Male,Regular,Pune,Maharashtra,West,2022-12-15
+CUST-0090,Vijay Banerjee,44,Female,Premium,Chennai,Tamil Nadu,South,2022-11-09
+CUST-0091,Jaya Reddy,22,Female,Premium,Indore,Madhya Pradesh,West,2023-04-23
+CUST-0092,Hemant Iyer,51,Male,Premium,Nagpur,Maharashtra,West,2022-03-22
+CUST-0093,Pankaj Patel,51,Female,Regular,Ahmedabad,Gujarat,West,2023-04-26
+CUST-0094,Gaurav Nambiar,39,Female,Regular,Jaipur,Rajasthan,North,2021-09-07
+CUST-0095,Sonal Saxena,23,Female,Premium,Kochi,Kerala,South,2023-05-22
+CUST-0096,Aarti Menon,44,Female,New,Patna,Bihar,East,2021-12-15
+CUST-0097,Shweta Banerjee,55,Male,Premium,Ahmedabad,Gujarat,West,2021-03-29
+CUST-0098,Harsh Choudhary,52,Female,New,Patna,Bihar,East,2022-04-04
+CUST-0099,Rahul Gupta,47,Male,New,Lucknow,Uttar Pradesh,North,2021-11-10
+CUST-0100,Jaya Vardhan,49,Female,Premium,Coimbatore,Tamil Nadu,South,2021-12-27
+CUST-0101,Praveen Shah,36,Male,Regular,Lucknow,Uttar Pradesh,North,2023-01-09
+CUST-0102,Rohit Nambiar,34,Male,Regular,Chennai,Tamil Nadu,South,2023-01-27
+CUST-0103,Smita Shah,28,Male,Regular,Indore,Madhya Pradesh,West,2021-10-31
+CUST-0104,Geeta Srivastava,22,Male,Regular,Hyderabad,Telangana,South,2021-10-08
+CUST-0105,Sunita Bose,30,Female,Regular,Coimbatore,Tamil Nadu,South,2021-04-16
+CUST-0106,Priya Saxena,52,Female,Regular,Lucknow,Uttar Pradesh,North,2021-12-15
+CUST-0107,Anjali Bose,29,Male,Regular,Ahmedabad,Gujarat,West,2022-02-15
+CUST-0108,Hemant Reddy,31,Female,Regular,Mumbai,Maharashtra,West,2021-03-29
+CUST-0109,Pallavi Pillai,36,Female,New,Coimbatore,Tamil Nadu,South,2022-04-07
+CUST-0110,Vishal Krishnan,58,Male,Regular,Nagpur,Maharashtra,West,2022-09-17
+CUST-0111,Nikhil Agarwal,27,Male,Regular,Pune,Maharashtra,West,2021-09-03
+CUST-0112,Pankaj Khanna,22,Female,Regular,Bangalore,Karnataka,South,2022-04-07
+CUST-0113,Ajay Tiwari,40,Female,New,Mumbai,Maharashtra,West,2022-12-21
+CUST-0114,Praveen Reddy,34,Female,Regular,Jaipur,Rajasthan,North,2021-04-28
+CUST-0115,Venkat Joshi,26,Male,Regular,Ahmedabad,Gujarat,West,2021-06-19
+CUST-0116,Sarita Banerjee,29,Female,Regular,Lucknow,Uttar Pradesh,North,2022-12-07
+CUST-0117,Vijay Pandey,50,Male,Regular,Ahmedabad,Gujarat,West,2022-09-05
+CUST-0118,Sunita Bajaj,23,Male,Regular,Chandigarh,Punjab,North,2021-08-23
+CUST-0119,Rahul Shah,52,Female,Regular,Mumbai,Maharashtra,West,2023-07-28
+CUST-0120,Shweta Menon,27,Female,Regular,Nagpur,Maharashtra,West,2021-12-23
+CUST-0121,Rajan Mishra,32,Female,Regular,Chandigarh,Punjab,North,2022-02-26
+CUST-0122,Preeti Tiwari,51,Male,Premium,Kochi,Kerala,South,2021-11-19
+CUST-0123,Manoj Nambiar,54,Male,New,Chennai,Tamil Nadu,South,2022-11-05
+CUST-0124,Sonal Choudhary,55,Female,New,Mumbai,Maharashtra,West,2022-09-30
+CUST-0125,Preeti Subramaniam,39,Male,New,Mumbai,Maharashtra,West,2023-08-08
+CUST-0126,Ramesh Subramaniam,23,Male,Regular,Patna,Bihar,East,2022-12-28
+CUST-0127,Arun Krishnan,57,Female,Premium,Coimbatore,Tamil Nadu,South,2021-04-06
+CUST-0128,Venkat Pillai,31,Female,Regular,Surat,Gujarat,West,2023-08-14
+CUST-0129,Usha Kulkarni,52,Female,New,Ahmedabad,Gujarat,West,2021-09-07
+CUST-0130,Praveen Khanna,34,Male,New,Kolkata,West Bengal,East,2023-06-04
+CUST-0131,Sanjay Shah,54,Female,Premium,Nagpur,Maharashtra,West,2023-04-21
+CUST-0132,Arjun Tiwari,31,Female,Regular,Lucknow,Uttar Pradesh,North,2022-07-06
+CUST-0133,Smita Dubey,51,Female,New,Chandigarh,Punjab,North,2023-06-10
+CUST-0134,Rohit Devi,48,Male,New,Kochi,Kerala,South,2021-11-22
+CUST-0135,Ajay Malhotra,53,Male,Regular,Kochi,Kerala,South,2021-05-10
+CUST-0136,Sushil Iyer,55,Female,Regular,Surat,Gujarat,West,2021-01-16
+CUST-0137,Manish Choudhary,52,Female,Regular,Kolkata,West Bengal,East,2021-12-13
+CUST-0138,Mohan Gupta,42,Female,New,Chandigarh,Punjab,North,2023-06-13
+CUST-0139,Vikram Das,40,Male,New,Bangalore,Karnataka,South,2023-02-04
+CUST-0140,Kavitha Bajaj,50,Male,Regular,Chennai,Tamil Nadu,South,2022-12-12
+CUST-0141,Vijay Nair,25,Female,Premium,Mumbai,Maharashtra,West,2022-01-03
+CUST-0142,Jaya Bajaj,55,Female,New,Kolkata,West Bengal,East,2022-08-03
+CUST-0143,Anjali Singh,46,Male,Regular,Hyderabad,Telangana,South,2022-05-25
+CUST-0144,Manish Patil,51,Female,Regular,Surat,Gujarat,West,2022-11-14
+CUST-0145,Priya Yadav,26,Female,Regular,Lucknow,Uttar Pradesh,North,2023-08-26
+CUST-0146,Tarun Chauhan,38,Female,New,Lucknow,Uttar Pradesh,North,2023-05-16
+CUST-0147,Vijay Rao,28,Male,Regular,Kochi,Kerala,South,2022-01-26
+CUST-0148,Kamala Saxena,23,Female,Regular,Lucknow,Uttar Pradesh,North,2021-10-09
+CUST-0149,Priya Saxena,40,Male,Regular,Mumbai,Maharashtra,West,2022-09-14
+CUST-0150,Kamala Patil,30,Male,Regular,Pune,Maharashtra,West,2023-07-15
+CUST-0151,Sunita Krishnan,45,Male,Premium,Surat,Gujarat,West,2021-04-03
+CUST-0152,Usha Nambiar,34,Male,Regular,Nagpur,Maharashtra,West,2023-03-17
+CUST-0153,Naveen Patel,32,Female,Regular,Indore,Madhya Pradesh,West,2023-07-25
+CUST-0154,Smita Tiwari,51,Male,Regular,Chandigarh,Punjab,North,2021-05-25
+CUST-0155,Venkat Pandey,27,Female,Premium,Coimbatore,Tamil Nadu,South,2021-01-15
+CUST-0156,Rekha Kapoor,45,Female,Regular,Chennai,Tamil Nadu,South,2022-08-22
+CUST-0157,Sunil Srivastava,52,Male,New,Chennai,Tamil Nadu,South,2022-09-27
+CUST-0158,Aarti Das,51,Female,Regular,Jaipur,Rajasthan,North,2022-10-27
+CUST-0159,Rajan Pillai,24,Female,Premium,Kolkata,West Bengal,East,2022-05-20
+CUST-0160,Suresh Iyer,46,Female,Regular,Jaipur,Rajasthan,North,2022-01-15
+CUST-0161,Mona Chauhan,28,Female,New,Kolkata,West Bengal,East,2022-09-23
+CUST-0162,Rajan Shah,35,Female,Premium,Mumbai,Maharashtra,West,2022-04-01
+CUST-0163,Harsh Srivastava,56,Female,Premium,Chennai,Tamil Nadu,South,2021-03-04
+CUST-0164,Mohan Shah,51,Male,Regular,Pune,Maharashtra,West,2022-11-10
+CUST-0165,Nisha Banerjee,43,Male,Premium,Delhi,Delhi,North,2021-05-09
+CUST-0166,Dinesh Reddy,35,Male,New,Coimbatore,Tamil Nadu,South,2021-12-03
+CUST-0167,Manish Banerjee,31,Male,Regular,Delhi,Delhi,North,2022-07-08
+CUST-0168,Manoj Menon,30,Male,Premium,Chennai,Tamil Nadu,South,2022-01-02
+CUST-0169,Harsh Chauhan,33,Female,Premium,Chandigarh,Punjab,North,2021-02-23
+CUST-0170,Rajesh Choudhary,26,Female,Regular,Indore,Madhya Pradesh,West,2022-04-05
+CUST-0171,Naveen Kulkarni,54,Male,Regular,Chennai,Tamil Nadu,South,2023-08-27
+CUST-0172,Sunita Patel,23,Male,Regular,Lucknow,Uttar Pradesh,North,2022-05-06
+CUST-0173,Lata Bajaj,50,Male,Regular,Chennai,Tamil Nadu,South,2023-07-10
+CUST-0174,Amit Nambiar,30,Female,Regular,Kolkata,West Bengal,East,2022-10-02
+CUST-0175,Aarti Malhotra,51,Female,Regular,Indore,Madhya Pradesh,West,2021-04-12
+CUST-0176,Suresh Khanna,50,Male,New,Pune,Maharashtra,West,2022-02-28
+CUST-0177,Bhavna Yadav,28,Female,New,Kochi,Kerala,South,2022-03-14
+CUST-0178,Deepak Verma,52,Male,Regular,Bhubaneswar,Odisha,East,2021-04-04
+CUST-0179,Amit Gupta,45,Male,Regular,Nagpur,Maharashtra,West,2022-07-24
+CUST-0180,Deepa Chauhan,29,Female,Premium,Coimbatore,Tamil Nadu,South,2021-12-29
+CUST-0181,Sachin Bose,44,Male,Regular,Lucknow,Uttar Pradesh,North,2022-08-15
+CUST-0182,Nisha Joshi,28,Female,New,Patna,Bihar,East,2023-05-16
+CUST-0183,Jaya Pillai,49,Male,New,Ahmedabad,Gujarat,West,2022-09-16
+CUST-0184,Gaurav Nair,41,Female,Regular,Hyderabad,Telangana,South,2021-12-26
+CUST-0185,Arjun Menon,26,Male,New,Kolkata,West Bengal,East,2023-01-29
+CUST-0186,Ananya Gupta,46,Female,New,Indore,Madhya Pradesh,West,2022-04-10
+CUST-0187,Bhavna Singh,42,Male,Regular,Bhubaneswar,Odisha,East,2023-06-24
+CUST-0188,Karthik Joshi,27,Female,Premium,Hyderabad,Telangana,South,2022-03-30
+CUST-0189,Sachin Ghosh,39,Male,New,Surat,Gujarat,West,2023-02-13
+CUST-0190,Suresh Dubey,40,Female,Regular,Nagpur,Maharashtra,West,2022-06-24
+CUST-0191,Sarita Mehta,25,Male,New,Jaipur,Rajasthan,North,2021-07-29
+CUST-0192,Vijay Agarwal,40,Female,Regular,Kolkata,West Bengal,East,2021-05-03
+CUST-0193,Arjun Ghosh,30,Female,Regular,Nagpur,Maharashtra,West,2022-06-30
+CUST-0194,Geeta Kulkarni,26,Female,Premium,Coimbatore,Tamil Nadu,South,2023-06-02
+CUST-0195,Sunita Bajaj,26,Female,Regular,Delhi,Delhi,North,2022-08-13
+CUST-0196,Sachin Saxena,40,Male,New,Kochi,Kerala,South,2022-02-19
+CUST-0197,Rahul Nambiar,45,Male,Regular,Hyderabad,Telangana,South,2022-03-24
+CUST-0198,Ritu Devi,55,Male,New,Nagpur,Maharashtra,West,2022-02-10
+CUST-0199,Sarita Mishra,32,Male,Premium,Jaipur,Rajasthan,North,2022-06-07
+CUST-0200,Suresh Patel,44,Female,New,Indore,Madhya Pradesh,West,2023-01-15

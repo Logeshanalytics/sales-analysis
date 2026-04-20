@@ -1,0 +1,289 @@
+Month,Month_Number,Year,Region,Category,Target_Amount
+January,1,2024,North,Electronics,800000
+January,1,2024,North,Clothing,200000
+January,1,2024,North,Home Appliances,200000
+January,1,2024,South,Electronics,700000
+January,1,2024,South,Clothing,200000
+January,1,2024,South,Home Appliances,100000
+January,1,2024,East,Electronics,600000
+January,1,2024,East,Clothing,200000
+January,1,2024,East,Home Appliances,100000
+January,1,2024,West,Electronics,900000
+January,1,2024,West,Clothing,300000
+January,1,2024,West,Home Appliances,200000
+February,2,2024,North,Electronics,800000
+February,2,2024,North,Clothing,200000
+February,2,2024,North,Home Appliances,200000
+February,2,2024,South,Electronics,700000
+February,2,2024,South,Clothing,200000
+February,2,2024,South,Home Appliances,100000
+February,2,2024,East,Electronics,600000
+February,2,2024,East,Clothing,200000
+February,2,2024,East,Home Appliances,100000
+February,2,2024,West,Electronics,800000
+February,2,2024,West,Clothing,200000
+February,2,2024,West,Home Appliances,200000
+March,3,2024,North,Electronics,900000
+March,3,2024,North,Clothing,300000
+March,3,2024,North,Home Appliances,200000
+March,3,2024,South,Electronics,800000
+March,3,2024,South,Clothing,200000
+March,3,2024,South,Home Appliances,200000
+March,3,2024,East,Electronics,600000
+March,3,2024,East,Clothing,200000
+March,3,2024,East,Home Appliances,100000
+March,3,2024,West,Electronics,900000
+March,3,2024,West,Clothing,300000
+March,3,2024,West,Home Appliances,200000
+April,4,2024,North,Electronics,900000
+April,4,2024,North,Clothing,200000
+April,4,2024,North,Home Appliances,200000
+April,4,2024,South,Electronics,800000
+April,4,2024,South,Clothing,200000
+April,4,2024,South,Home Appliances,200000
+April,4,2024,East,Electronics,600000
+April,4,2024,East,Clothing,200000
+April,4,2024,East,Home Appliances,100000
+April,4,2024,West,Electronics,900000
+April,4,2024,West,Clothing,300000
+April,4,2024,West,Home Appliances,200000
+May,5,2024,North,Electronics,900000
+May,5,2024,North,Clothing,300000
+May,5,2024,North,Home Appliances,200000
+May,5,2024,South,Electronics,800000
+May,5,2024,South,Clothing,200000
+May,5,2024,South,Home Appliances,200000
+May,5,2024,East,Electronics,700000
+May,5,2024,East,Clothing,200000
+May,5,2024,East,Home Appliances,100000
+May,5,2024,West,Electronics,1000000
+May,5,2024,West,Clothing,300000
+May,5,2024,West,Home Appliances,200000
+June,6,2024,North,Electronics,900000
+June,6,2024,North,Clothing,300000
+June,6,2024,North,Home Appliances,200000
+June,6,2024,South,Electronics,800000
+June,6,2024,South,Clothing,200000
+June,6,2024,South,Home Appliances,200000
+June,6,2024,East,Electronics,700000
+June,6,2024,East,Clothing,200000
+June,6,2024,East,Home Appliances,100000
+June,6,2024,West,Electronics,1000000
+June,6,2024,West,Clothing,300000
+June,6,2024,West,Home Appliances,200000
+July,7,2024,North,Electronics,900000
+July,7,2024,North,Clothing,300000
+July,7,2024,North,Home Appliances,200000
+July,7,2024,South,Electronics,800000
+July,7,2024,South,Clothing,200000
+July,7,2024,South,Home Appliances,200000
+July,7,2024,East,Electronics,700000
+July,7,2024,East,Clothing,200000
+July,7,2024,East,Home Appliances,100000
+July,7,2024,West,Electronics,1000000
+July,7,2024,West,Clothing,300000
+July,7,2024,West,Home Appliances,200000
+August,8,2024,North,Electronics,900000
+August,8,2024,North,Clothing,300000
+August,8,2024,North,Home Appliances,200000
+August,8,2024,South,Electronics,800000
+August,8,2024,South,Clothing,200000
+August,8,2024,South,Home Appliances,200000
+August,8,2024,East,Electronics,700000
+August,8,2024,East,Clothing,200000
+August,8,2024,East,Home Appliances,100000
+August,8,2024,West,Electronics,1000000
+August,8,2024,West,Clothing,300000
+August,8,2024,West,Home Appliances,200000
+September,9,2024,North,Electronics,1100000
+September,9,2024,North,Clothing,300000
+September,9,2024,North,Home Appliances,200000
+September,9,2024,South,Electronics,1000000
+September,9,2024,South,Clothing,300000
+September,9,2024,South,Home Appliances,200000
+September,9,2024,East,Electronics,800000
+September,9,2024,East,Clothing,200000
+September,9,2024,East,Home Appliances,200000
+September,9,2024,West,Electronics,1200000
+September,9,2024,West,Clothing,300000
+September,9,2024,West,Home Appliances,200000
+October,10,2024,North,Electronics,1200000
+October,10,2024,North,Clothing,300000
+October,10,2024,North,Home Appliances,200000
+October,10,2024,South,Electronics,1000000
+October,10,2024,South,Clothing,300000
+October,10,2024,South,Home Appliances,200000
+October,10,2024,East,Electronics,900000
+October,10,2024,East,Clothing,300000
+October,10,2024,East,Home Appliances,200000
+October,10,2024,West,Electronics,1300000
+October,10,2024,West,Clothing,400000
+October,10,2024,West,Home Appliances,300000
+November,11,2024,North,Electronics,1400000
+November,11,2024,North,Clothing,400000
+November,11,2024,North,Home Appliances,300000
+November,11,2024,South,Electronics,1200000
+November,11,2024,South,Clothing,400000
+November,11,2024,South,Home Appliances,200000
+November,11,2024,East,Electronics,1000000
+November,11,2024,East,Clothing,300000
+November,11,2024,East,Home Appliances,200000
+November,11,2024,West,Electronics,1500000
+November,11,2024,West,Clothing,400000
+November,11,2024,West,Home Appliances,300000
+December,12,2024,North,Electronics,1300000
+December,12,2024,North,Clothing,400000
+December,12,2024,North,Home Appliances,300000
+December,12,2024,South,Electronics,1200000
+December,12,2024,South,Clothing,300000
+December,12,2024,South,Home Appliances,200000
+December,12,2024,East,Electronics,1000000
+December,12,2024,East,Clothing,300000
+December,12,2024,East,Home Appliances,200000
+December,12,2024,West,Electronics,1400000
+December,12,2024,West,Clothing,400000
+December,12,2024,West,Home Appliances,300000
+January,1,2025,North,Electronics,900000
+January,1,2025,North,Clothing,300000
+January,1,2025,North,Home Appliances,200000
+January,1,2025,South,Electronics,800000
+January,1,2025,South,Clothing,200000
+January,1,2025,South,Home Appliances,200000
+January,1,2025,East,Electronics,700000
+January,1,2025,East,Clothing,200000
+January,1,2025,East,Home Appliances,100000
+January,1,2025,West,Electronics,1000000
+January,1,2025,West,Clothing,300000
+January,1,2025,West,Home Appliances,200000
+February,2,2025,North,Electronics,900000
+February,2,2025,North,Clothing,200000
+February,2,2025,North,Home Appliances,200000
+February,2,2025,South,Electronics,800000
+February,2,2025,South,Clothing,200000
+February,2,2025,South,Home Appliances,200000
+February,2,2025,East,Electronics,600000
+February,2,2025,East,Clothing,200000
+February,2,2025,East,Home Appliances,100000
+February,2,2025,West,Electronics,900000
+February,2,2025,West,Clothing,300000
+February,2,2025,West,Home Appliances,200000
+March,3,2025,North,Electronics,1000000
+March,3,2025,North,Clothing,300000
+March,3,2025,North,Home Appliances,200000
+March,3,2025,South,Electronics,900000
+March,3,2025,South,Clothing,200000
+March,3,2025,South,Home Appliances,200000
+March,3,2025,East,Electronics,700000
+March,3,2025,East,Clothing,200000
+March,3,2025,East,Home Appliances,100000
+March,3,2025,West,Electronics,1000000
+March,3,2025,West,Clothing,300000
+March,3,2025,West,Home Appliances,200000
+April,4,2025,North,Electronics,900000
+April,4,2025,North,Clothing,300000
+April,4,2025,North,Home Appliances,200000
+April,4,2025,South,Electronics,800000
+April,4,2025,South,Clothing,200000
+April,4,2025,South,Home Appliances,200000
+April,4,2025,East,Electronics,700000
+April,4,2025,East,Clothing,200000
+April,4,2025,East,Home Appliances,100000
+April,4,2025,West,Electronics,1000000
+April,4,2025,West,Clothing,300000
+April,4,2025,West,Home Appliances,200000
+May,5,2025,North,Electronics,1000000
+May,5,2025,North,Clothing,300000
+May,5,2025,North,Home Appliances,200000
+May,5,2025,South,Electronics,900000
+May,5,2025,South,Clothing,300000
+May,5,2025,South,Home Appliances,200000
+May,5,2025,East,Electronics,700000
+May,5,2025,East,Clothing,200000
+May,5,2025,East,Home Appliances,100000
+May,5,2025,West,Electronics,1100000
+May,5,2025,West,Clothing,300000
+May,5,2025,West,Home Appliances,200000
+June,6,2025,North,Electronics,1000000
+June,6,2025,North,Clothing,300000
+June,6,2025,North,Home Appliances,200000
+June,6,2025,South,Electronics,900000
+June,6,2025,South,Clothing,300000
+June,6,2025,South,Home Appliances,200000
+June,6,2025,East,Electronics,800000
+June,6,2025,East,Clothing,200000
+June,6,2025,East,Home Appliances,200000
+June,6,2025,West,Electronics,1100000
+June,6,2025,West,Clothing,300000
+June,6,2025,West,Home Appliances,200000
+July,7,2025,North,Electronics,1000000
+July,7,2025,North,Clothing,300000
+July,7,2025,North,Home Appliances,200000
+July,7,2025,South,Electronics,900000
+July,7,2025,South,Clothing,300000
+July,7,2025,South,Home Appliances,200000
+July,7,2025,East,Electronics,700000
+July,7,2025,East,Clothing,200000
+July,7,2025,East,Home Appliances,200000
+July,7,2025,West,Electronics,1100000
+July,7,2025,West,Clothing,300000
+July,7,2025,West,Home Appliances,200000
+August,8,2025,North,Electronics,1000000
+August,8,2025,North,Clothing,300000
+August,8,2025,North,Home Appliances,200000
+August,8,2025,South,Electronics,900000
+August,8,2025,South,Clothing,300000
+August,8,2025,South,Home Appliances,200000
+August,8,2025,East,Electronics,800000
+August,8,2025,East,Clothing,200000
+August,8,2025,East,Home Appliances,200000
+August,8,2025,West,Electronics,1100000
+August,8,2025,West,Clothing,300000
+August,8,2025,West,Home Appliances,200000
+September,9,2025,North,Electronics,1200000
+September,9,2025,North,Clothing,300000
+September,9,2025,North,Home Appliances,200000
+September,9,2025,South,Electronics,1100000
+September,9,2025,South,Clothing,300000
+September,9,2025,South,Home Appliances,200000
+September,9,2025,East,Electronics,900000
+September,9,2025,East,Clothing,300000
+September,9,2025,East,Home Appliances,200000
+September,9,2025,West,Electronics,1300000
+September,9,2025,West,Clothing,400000
+September,9,2025,West,Home Appliances,300000
+October,10,2025,North,Electronics,1300000
+October,10,2025,North,Clothing,400000
+October,10,2025,North,Home Appliances,300000
+October,10,2025,South,Electronics,1100000
+October,10,2025,South,Clothing,300000
+October,10,2025,South,Home Appliances,200000
+October,10,2025,East,Electronics,1000000
+October,10,2025,East,Clothing,300000
+October,10,2025,East,Home Appliances,200000
+October,10,2025,West,Electronics,1400000
+October,10,2025,West,Clothing,400000
+October,10,2025,West,Home Appliances,300000
+November,11,2025,North,Electronics,1500000
+November,11,2025,North,Clothing,400000
+November,11,2025,North,Home Appliances,300000
+November,11,2025,South,Electronics,1300000
+November,11,2025,South,Clothing,400000
+November,11,2025,South,Home Appliances,300000
+November,11,2025,East,Electronics,1100000
+November,11,2025,East,Clothing,300000
+November,11,2025,East,Home Appliances,200000
+November,11,2025,West,Electronics,1600000
+November,11,2025,West,Clothing,500000
+November,11,2025,West,Home Appliances,300000
+December,12,2025,North,Electronics,1500000
+December,12,2025,North,Clothing,400000
+December,12,2025,North,Home Appliances,300000
+December,12,2025,South,Electronics,1300000
+December,12,2025,South,Clothing,400000
+December,12,2025,South,Home Appliances,300000
+December,12,2025,East,Electronics,1100000
+December,12,2025,East,Clothing,300000
+December,12,2025,East,Home Appliances,200000
+December,12,2025,West,Electronics,1600000
+December,12,2025,West,Clothing,500000
+December,12,2025,West,Home Appliances,300000

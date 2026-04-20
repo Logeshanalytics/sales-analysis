@@ -1,0 +1,58 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Price,Cost_Price,Brand
+PROD-101,"Samsung 55"" 4K Smart TV",Electronics,Television,55000,33000,Samsung
+PROD-102,"LG 65"" OLED TV",Electronics,Television,78000,46800,LG
+PROD-103,"Sony Bravia 75"" TV",Electronics,Television,95000,57000,Sony
+PROD-104,"OnePlus 43"" TV",Electronics,Television,32000,19200,OnePlus
+PROD-105,"Mi 40"" Smart TV",Electronics,Television,22000,13200,Xiaomi
+PROD-106,"Panasonic 55"" TV",Electronics,Television,48000,28800,Panasonic
+PROD-107,"Sony 85"" BRAVIA XR",Electronics,Television,120000,72000,Sony
+PROD-108,"Samsung Neo QLED 65""",Electronics,Television,85000,51000,Samsung
+PROD-109,"LG NanoCell 50""",Electronics,Television,42000,25200,LG
+PROD-110,"Hisense 65"" ULED",Electronics,Television,52000,31200,Hisense
+PROD-111,"TCL 55"" QLED",Electronics,Television,38000,22800,TCL
+PROD-112,"Vu Premium 65""",Electronics,Television,44000,26400,Vu
+PROD-201,Apple iPhone 15,Electronics,Mobile Phone,79999,47999,Apple
+PROD-202,Samsung Galaxy S24,Electronics,Mobile Phone,74999,44999,Samsung
+PROD-203,OnePlus 12,Electronics,Mobile Phone,64999,38999,OnePlus
+PROD-204,Xiaomi 14 Pro,Electronics,Mobile Phone,89999,53999,Xiaomi
+PROD-205,Vivo X100,Electronics,Mobile Phone,54999,32999,Vivo
+PROD-206,Oppo Find X7,Electronics,Mobile Phone,59999,35999,Oppo
+PROD-207,Google Pixel 8 Pro,Electronics,Mobile Phone,84999,50999,Google
+PROD-208,Apple iPhone 15 Pro,Electronics,Mobile Phone,134999,80999,Apple
+PROD-209,Samsung Galaxy A55,Electronics,Mobile Phone,29999,17999,Samsung
+PROD-210,Realme GT 5 Pro,Electronics,Mobile Phone,39999,23999,Realme
+PROD-211,Nothing Phone 2a,Electronics,Mobile Phone,24999,14999,Nothing
+PROD-212,Poco F6 Pro,Electronics,Mobile Phone,34999,20999,Poco
+PROD-301,Apple MacBook Air M3,Electronics,Laptop,114900,68940,Apple
+PROD-302,Dell XPS 15,Electronics,Laptop,165000,99000,Dell
+PROD-303,HP Spectre x360,Electronics,Laptop,145000,87000,HP
+PROD-304,Lenovo ThinkPad X1,Electronics,Laptop,135000,81000,Lenovo
+PROD-305,Asus ROG Zephyrus,Electronics,Laptop,155000,93000,Asus
+PROD-306,Samsung Galaxy Book4,Electronics,Laptop,89999,53999,Samsung
+PROD-307,Acer Swift 5,Electronics,Laptop,72000,43200,Acer
+PROD-308,MSI Prestige 16,Electronics,Laptop,125000,75000,MSI
+PROD-401,Allen Solly Formal Shirt,Clothing,Top Wear,2499,1249,Allen Solly
+PROD-402,Van Heusen Business Shirt,Clothing,Top Wear,2999,1499,Van Heusen
+PROD-403,Peter England Check Shirt,Clothing,Top Wear,1999,999,Peter England
+PROD-404,Louis Philippe Shirt,Clothing,Top Wear,3499,1749,Louis Philippe
+PROD-405,Arrow Classic Shirt,Clothing,Top Wear,2299,1149,Arrow
+PROD-406,Levi's 511 Slim Jeans,Clothing,Bottom Wear,4499,2249,Levi's
+PROD-407,Lee Regular Jeans,Clothing,Bottom Wear,3299,1649,Lee
+PROD-408,Wrangler Straight Jeans,Clothing,Bottom Wear,3799,1899,Wrangler
+PROD-409,Raymond Formal Trouser,Clothing,Bottom Wear,4999,2499,Raymond
+PROD-410,Park Avenue Chinos,Clothing,Bottom Wear,2799,1399,Park Avenue
+PROD-411,Nike Air Max 270,Clothing,Footwear,12995,7797,Nike
+PROD-412,Adidas Ultraboost 23,Clothing,Footwear,15995,9597,Adidas
+PROD-413,Puma RS-X,Clothing,Footwear,8995,5397,Puma
+PROD-414,Woodland Waterproof,Clothing,Footwear,5995,3597,Woodland
+PROD-415,Red Tape Oxford,Clothing,Footwear,4495,2697,Red Tape
+PROD-501,Philips Air Fryer HD9200,Home Appliances,Kitchen,7999,4399,Philips
+PROD-502,Prestige Induction Cooktop,Home Appliances,Kitchen,3499,1924,Prestige
+PROD-503,Bajaj Mixer Grinder 750W,Home Appliances,Kitchen,2999,1649,Bajaj
+PROD-504,Havells OTG 28L,Home Appliances,Kitchen,5499,3024,Havells
+PROD-505,Pigeon Electric Kettle,Home Appliances,Kitchen,1299,714,Pigeon
+PROD-506,Bosch Dishwasher,Home Appliances,Kitchen,45000,24750,Bosch
+PROD-507,LG 8kg Washing Machine,Home Appliances,Large Appliance,42000,23100,LG
+PROD-508,Samsung 253L Refrigerator,Home Appliances,Large Appliance,28999,15949,Samsung
+PROD-509,Voltas 1.5T Split AC,Home Appliances,Large Appliance,38000,20900,Voltas
+PROD-510,Dyson V15 Vacuum,Home Appliances,Large Appliance,52900,29095,Dyson
